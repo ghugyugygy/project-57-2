@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background: linear-gradient,pink 0,purple 100;
+}
+img{
+  border-radius: 50;
+  width: 50%;
+  height: 50%;
+}
+h1{
+  font-family: inherit;
+  color: #64B5F6;
+}
+h2{
+  font-family: inherit
+  color: #64B5F6;
+}
+p{
+  font-family: fantasy;
+  color: #18FFFF;
+}
